@@ -1,0 +1,6 @@
+{
+  "name": "Sistem Pengaduan Sekolah Terpadu",
+  "description": "Aplikasi pengaduan terpadu pelayanan sekolah, kerusakan sarana prasarana, dan penanganan bullying dengan prioritas AI, pelaporan foto real-time, push notifikasi transparan, dan dashboard admin.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
